@@ -8,7 +8,8 @@
 Per eseguire il notebook, assicurati di avere installato **Python 3.x** e le seguenti librerie:
 
 ```bash
-pip install pandas numpy matplotlib seaborn jupyter
+pip install pandas
+pip install numpy
 ```
 
 ---
